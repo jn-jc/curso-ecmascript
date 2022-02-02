@@ -9,3 +9,12 @@ ECMAScript es la especificación del lenguaje JavaScript propuesto por ECMA Inte
 Cada anno se realiza una nueva version, en julio
 
 ## Segunda clase
+
+
+
+
+
+
+
+## Tercera clase
+antes se usaba el "\n" para concatenar una linea de codigo, ahora se usan las comillas francesas "``"
